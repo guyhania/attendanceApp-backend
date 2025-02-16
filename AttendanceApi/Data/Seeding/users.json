@@ -1,0 +1,37 @@
+[
+  {
+    "email": "alice@example.com",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "role": "Manager",
+    "password": "AliceSecure123!"
+  },
+  {
+    "email": "bob@example.com",
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "role": "Manager",
+    "password": "BobSecure123!"
+  },
+  {
+    "email": "charlie@example.com",
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "role": "Employee",
+    "password": "CharliePass!"
+  },
+  {
+    "email": "david@example.com",
+    "firstName": "David",
+    "lastName": "White",
+    "role": "Employee",
+    "password": "DavidPass!"
+  },
+  {
+    "email": "eve@example.com",
+    "firstName": "Eve",
+    "lastName": "Davis",
+    "role": "Employee",
+    "password": "EvePass!"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "role": "Manager",
+    "managerId": null,
+    "email": "alice@example.com"
+  },
+  {
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "role": "Manager",
+    "managerId": null,
+    "email": "bob@example.com"
+  },
+  {
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "role": "Employee",
+    "managerId": 1,
+    "email": "charlie@example.com"
+  },
+  {
+    "firstName": "David",
+    "lastName": "White",
+    "role": "Employee",
+    "managerId": 1,
+    "email": "david@example.com"
+  },
+  {
+    "firstName": "Eve",
+    "lastName": "Davis",
+    "role": "Employee",
+    "managerId": 2,
+    "email": "eve@example.com"
+  }
+]
